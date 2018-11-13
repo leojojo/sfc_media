@@ -1,0 +1,4 @@
+selenium==3.141.0
+chromedriver_binary==2.43.0
+python_dateutil==2.7.5
+python-dotenv==0.9.1
