@@ -52,7 +52,7 @@ def loan():
     # driver.get(login_url)
     
     # ========== スクショ ========== #
-    driver.save_screenshot('hoge.png')
+    driver.save_screenshot('screenshot.png')
     driver.quit()
 
 def book_status(tr):
